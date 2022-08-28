@@ -1,0 +1,16 @@
+// Elementos que necesito para hacer el sandwich:
+Ingrediente pan
+Ingrediente pan2
+Ingrediente mayonesa
+Ingrediente jamón
+
+Comida sandwich
+
+Otro plato
+
+// Proceso para crear el sandwich:
+untar(mayonesa, pan)
+untar(mayonesa, pan2)
+poner(jamón, pan)
+sandwich = poner(pan, pan2)
+poner(sandwich, plato)
